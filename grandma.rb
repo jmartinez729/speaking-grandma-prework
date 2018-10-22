@@ -18,6 +18,7 @@ def speak_to_grandma(string)
   else
     puts "NO, NOT SINCE 1938!"
     
-  elsif string = ""
+  elsif string == "I LOVE YOU GRANDMA!"
+    puts ""
   end 
 end 
